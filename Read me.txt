@@ -1,0 +1,8 @@
+1.run install_pip
+
+2.run hackerTools
+
+---------pip-----------
+1.pip requests
+2.pip whois
+3.pip smtplib
